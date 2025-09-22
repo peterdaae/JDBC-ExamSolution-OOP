@@ -1,6 +1,3 @@
-Dette programmet er laget av kandidatnummer: 62
-Dette er en løsning på :
-
 PGR112 OBJEKTORIENTERT PROGRAMMERING HJEMMEEKSAMEN 2025 VÅR
 
 external libraries NEEDED : 
