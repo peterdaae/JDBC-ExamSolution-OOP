@@ -12,6 +12,6 @@ slik som dette :
 host=localhost
 dbName=ScrapyardDB
 port=3306
-user= "input usernmae"
+user= "input username"
 pass= "input password"
 
